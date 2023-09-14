@@ -9,7 +9,9 @@
 ![Screenshot from 2023-09-14 16-35-31](https://github.com/reyhanmichiels/integrative-programing-practicum/assets/103521934/a65ac14a-00c0-4631-911f-c0ba7915bb31)
 
 4. Lakukan insert buku kedua dengan cara yang sama.
+
 ![Screenshot from 2023-09-14 16-39-12](https://github.com/reyhanmichiels/integrative-programing-practicum/assets/103521934/6fdd5b94-0d76-44db-8bd6-4c734b9454fb)
+
 5. Lakukan pencarian buku dengan author “Osamu Dazai” dengan mengisi filter yang diinginkan dan klik “Find”
   
 ![image](https://github.com/reyhanmichiels/integrative-programing-practicum/assets/103521934/46babb38-902c-40d8-aac1-d056fba69d68)
